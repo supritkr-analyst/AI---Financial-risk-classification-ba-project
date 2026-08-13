@@ -1,36 +1,90 @@
-# ---Financial-risk-classification-ba-project
+# AI Financial Risk Classification – Business Analysis Project
 
-A complete end-to-end Business Analyst portfolio project demonstrating business analysis for a Financial Risk Classification System. Includes BRD, FRD,RACI Matrix, User Stories, Acceptance Criteria, As-Is &amp; To-Be Process Flows, Swimlane Diagrams, Wireframes, Root Cause Analysis, and Business Recommendations.
+## 👤 Business Analyst Portfolio Project
+
+**Created by:** Suprit Kumar  
+**Domain:** Financial Services / Risk Assessment  
+**Project Type:** Business Analysis + AI & Process Automation
+
+---
 
 ## 📌 Project Overview
-Financial institutions process thousands of loan applications every day. Traditional loan approval processes often rely on manual assessments, making them time-consuming, inconsistent, and prone to human error. Incorrect lending decisions can increase loan defaults, reduce profitability, and negatively impact customer satisfaction.
----
-# 🚨 Business Problem
 
-The bank currently uses a manual process to evaluate loan applicants.
+This project demonstrates how a Business Analyst can analyze and improve a financial risk classification process.
 
-This creates several business challenges:
+The project covers the complete BA lifecycle, from understanding the existing business problem to designing an improved TO-BE process and identifying opportunities for AI and process automation.
 
-- Inconsistent loan approval decisions
-- High loan default rates
-- Long approval turnaround times
-- Human bias during customer evaluation
-- Increased operational costs
-- Lack of standardized risk assessment
-
-These issues reduce customer satisfaction and increase financial losses.
+The AI component is a **proposed solution concept** designed to support risk assessment and reduce manual work.
 
 ---
-# 🎯 Project Objective
 
-Design a business solution that:
+## 🎯 Business Problem
 
-- Improves loan approval decisions
-- Identifies high-risk applicants early
-- Reduces loan default rates
-- Standardizes risk evaluation
-- Supports loan officers with AI-driven recommendations
-- Improves operational efficiency
+The existing financial risk assessment process involves several manual activities, such as:
+
+- Checking applicant information
+- Validating financial data
+- Assessing risk
+- Prioritizing applications
+- Identifying high-risk applications
+- Sending status updates
+
+These manual activities can lead to:
+
+- Increased processing time
+- Repetitive manual work
+- Difficulty prioritizing applications
+- Inconsistent assessment
+- Limited process visibility
+
+---
+
+## 💡 Proposed Solution
+
+The project proposes an improved process using:
+
+### Business Analysis
+
+- Requirements analysis
+- AS-IS process analysis
+- TO-BE process design
+- User stories
+- Acceptance criteria
+- Stakeholder analysis
+- RACI matrix
+- Root cause analysis
+- Wireframes
+
+### AI & Automation
+
+- AI-assisted risk classification
+- Risk factor identification
+- Explainable recommendations
+- Automated data validation
+- Missing information detection
+- Risk-based application routing
+- High-risk application flagging
+- Automated notifications
+- Audit logging
+
+### Human-in-the-Loop
+
+AI provides a recommendation, but the final lending decision remains with an authorized human reviewer.
+
+```text
+Application
+     ↓
+Automated Validation
+     ↓
+AI-Assisted Risk Assessment
+     ↓
+Risk Classification
+     ↓
+Risk-Based Routing
+     ↓
+Human Review
+     ↓
+Final Decision
 ```
 # 🛠 Tools Used
 - Draw.io
