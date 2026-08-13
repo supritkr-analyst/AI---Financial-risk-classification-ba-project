@@ -1,0 +1,77 @@
+## 📌 Overview
+
+This section presents an AI-assisted enhancement to the existing Financial Risk Classification Business Analysis project.
+
+The objective is to identify opportunities where AI and process automation can improve financial risk assessment, reduce repetitive manual activities, improve application prioritization, and support loan officers with explainable recommendations.
+
+The proposed solution follows a **Human-in-the-Loop** approach, where AI supports the decision-making process while the final lending decision remains with an authorized human reviewer.
+
+---
+
+# 🎯 Business Problem
+
+The existing risk assessment process may involve several manual activities, including:
+
+- Applicant data validation
+- Financial information review
+- Risk assessment
+- Application prioritization
+- High-risk identification
+- Stakeholder communication
+- Status tracking
+
+These activities can result in increased manual effort, processing delays, and inconsistent assessment.
+
+---
+
+# 💡 Proposed AI & Automation Solution
+
+The proposed solution introduces AI-assisted risk classification and process automation into the existing workflow.
+
+### AI-Assisted Capabilities
+
+- AI-assisted financial risk assessment
+- Risk classification
+- Identification of key risk factors
+- Explainable risk recommendations
+
+### Process Automation Capabilities
+
+- Automated data validation
+- Missing/invalid information detection
+- Risk-based application routing
+- High-risk application flagging
+- Automated notifications
+- Application status updates
+- Audit record creation
+
+---
+
+# 🔄 AI / Automated TO-BE Process
+
+The proposed workflow is:
+
+```text
+Loan Application
+       ↓
+Automated Data Capture
+       ↓
+Automated Data Validation
+       ↓
+Missing / Invalid Data Check
+       ↓
+AI-Assisted Risk Assessment
+       ↓
+Risk Classification
+       ↓
+Risk Explanation & Recommendation
+       ↓
+Automated Risk-Based Routing
+       ↓
+Loan Officer Review
+       ↓
+Final Human Decision
+       ↓
+Automated Notification
+       ↓
+Audit Record
